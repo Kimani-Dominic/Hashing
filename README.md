@@ -1,2 +1,2 @@
 # Hashing
-DSA Hashing playground with python
+DSA Hashing and BST playground with python
