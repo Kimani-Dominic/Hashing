@@ -21,6 +21,5 @@ class SortedArrayToBST:
     
         return root            
         
-        
- #Example usage
+    
         
